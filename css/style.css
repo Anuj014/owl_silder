@@ -1,0 +1,24 @@
+#hel{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+#helll{
+    background-color: rgb(65, 43, 34);
+    height: 1000px;
+    width: 1000px;
+    transition: 5s;
+}
+#helll:hover{
+        background-color: rgb(24, 170, 11);
+        /* skew (rombus convert) scale (magnify) rotate() translate(move)*/
+        transform: scale(0.4, 0.3) 
+    }
+    a:visited{
+        color: green;
+        background-color: rgb(61, 11, 170); 
+    }
+    a:visited{
+        color: green;
+        background-color: rgb(170, 149, 11); 
+    }
